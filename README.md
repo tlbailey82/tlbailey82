@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tlbailey82
 - 👀 I’m interested in Java
-- 🌱 I’m currently learning Java
+- 🌱 Java is cool
 - 💞️ I’m looking to collaborate on SDET projects
 - 📫 How to reach me ... through telepathy
 - ⚡ Fun fact: ... I'm a Marvel Fanatic... Long Live Thanos and Kang
