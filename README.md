@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tlbailey82
-- 👀 I’m interested in Java
-- 🌱 Java is cool
-- 💞️ I’m looking to collaborate on SDET projects
+- 👀 I’m interested in Playwright Automation and AI
+- 🌱 JavaScript is cool!
+- 💞️ I’m looking to collaborate on Playwright Automation projects
 - 📫 How to reach me ... through telepathy
 - ⚡ Fun fact: ... I'm a Marvel Fanatic... Long Live Thanos and Kang
 
